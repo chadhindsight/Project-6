@@ -1,4 +1,4 @@
-#Feed Reader Project
+##Feed Reader Project
 This project required using the jasmine framework to write a test suite for a newsfeed reader site provided by Udacity. 
 
 ## How it works 
